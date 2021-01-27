@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## App Pages for Christian Mindfulness
+
+This is a set of pages which provide support and privacy information for apps developed by Christian Mindfulness.
+
+[Reflect](reflect_privacy.md)
+[Toothbrush Timer](toothbrush_privacy.md)
 
 You can use the [editor on GitHub](https://github.com/christian-mindfulness/app_development/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
