@@ -10,7 +10,7 @@ If you choose to use the Service, then you agree to the collection and use of in
 
 For a better experience while using the Service, the app does not require you to provide personally identifiable information.
 
-The app does use third party services that may collect information used to identify you. The app uses the Crashlytics and Fabric libraries to collect anonymized usage information, which are provided by Google.  Google's privacy policy is found at: https://docs.fabric.io/android/fabric/data-privacy.html.
+The app does use third party services that may collect information used to identify you. The app uses the Crashlytics and Firebase libraries to collect anonymized usage information, which are provided by Google.  Google's privacy policy is found at: https://firebase.google.com/support/privacy.
 
 ## Log Data
 
