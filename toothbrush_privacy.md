@@ -1,16 +1,20 @@
+# Support
+
+The "Toothbrush Timer" app is essentially unsupported.  If you are really stuck, then you can contact [christian.mindful@outlook.com](mailto:christian.mindful@outlook.com).
+
 # Privacy Policy
 
 The "Toothbrush Timer" app has been created as a free app. This Service is provided at no cost and is intended for use as is.
 
 This page is used to inform users regarding the policy of this app with the collection, use, and disclosure of Personal Information if anyone decides to use this Service.
 
-If you choose to use the Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that I collect are used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use the Service, then you agree to the collection and use of information in relation with this policy. The information collected is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
 ## Information Collection and Use
 
 For a better experience while using the Service, the app does not require you to provide personally identifiable information.
 
-The app does use third party services that may collect information used to identify you. The app uses the Crashlytics and Firebase libraries to collect anonymized usage information, which are provided by Google.  Google's privacy policy is found at: https://firebase.google.com/support/privacy.
+The app uses third party services that may collect information is used to identify your device. The app uses the Crashlytics and Firebase libraries to collect anonymized usage information, which are provided by Google.  Google's privacy policy is found at: https://firebase.google.com/support/privacy.
 
 ## Log Data
 
@@ -18,8 +22,8 @@ Whenever you use the Service, in case of an error in the app data and informatio
 
 ## Service Providers
 
-The app may employ third-party companies and individuals due to the following reasons:
-To perform Service-related services; or
+The app may employ third-party companies and individuals due to the following reasons:  
+To perform Service-related services; or  
 To assist in analyzing how our Service is used.
 
 Users of this Service should be aware that these third parties have access to the information described above. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
