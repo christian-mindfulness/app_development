@@ -2,6 +2,12 @@
 
 The "Toothbrush Timer" app is essentially unsupported.  If you are really stuck, then you can contact [christian.mindful@outlook.com](mailto:christian.mindful@outlook.com).
 
+# Copyright
+
+All code copyright the app author.
+
+The buzzer at the end of the of the timer is "Short ring of an oven cooker timer bell. Version 1" from ZapSplat.com.  Used with permission.
+
 # Privacy Policy
 
 The "Toothbrush Timer" app has been created as a free app. This Service is provided at no cost and is intended for use as is.
