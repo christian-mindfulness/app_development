@@ -6,7 +6,7 @@ The "Toothbrush Timer" app is essentially unsupported.  If you are really stuck,
 
 All code copyright the app author.
 
-The buzzer at the end of the of the timer is "Short ring of an oven cooker timer bell. Version 1" from ZapSplat.com.  Used with permission.
+The bell sound played at each interval is "Bell ring (small) - could be reception, elevator or bicycle bell etc 2".  The ring at the end of the time is "Bicycle bell ring 1".  Both are created by ZapSplat and are available from from ZapSplat.com.  Used with permission.
 
 # Privacy Policy
 
