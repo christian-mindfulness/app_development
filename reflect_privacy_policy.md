@@ -8,13 +8,13 @@ If you choose to use the Service, then you agree to the collection and use of in
 
 ## Information Collection and Use
 
-For a better experience while using the Service, the app does not require you to provide personally identifiable information.
+The app does not require you to provide personally identifiable information.
 
-The app does use third party services that may collect information used to identify you. The app uses the Crashlytics and Fabric libraries to collect anonymized usage information, which are provided by Google.  Google's privacy policy is found at: https://docs.fabric.io/android/fabric/data-privacy.html.
+The app does use third party services. The app uses the Crashlytics library to collect anonymized usage information, which are provided by Google.  Google's privacy policy is found at: https://firebase.google.com/support/privacy.
 
 ## Log Data
 
-Whenever you use the Service, in case of an error in the app data and information (through third party products) are collected from your device - called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising the Service, the time and date of your use of the Service, and other statistics.
+Whenever you use the Service, in case of an error in the app data and information (through third party products) are collected from your device - called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising the Service, the time and date of your use of the Service, and other statistics.  This Log Data cannot be used to identify you.
 
 ## Service Providers
 
@@ -34,11 +34,11 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ## Changes to This Privacy Policy
 
-This Privacy Policy may be updated from time to time. Thus, you are advised to review this page periodically for any changes. Any changes will be notified by linking to the new policy from the Google Play store. Any changes will be effective immediately, after they are posted on the link in the Store.
+This Privacy Policy may be updated from time to time. Thus, you are advised to review this page periodically for any changes. Any changes can be seen by checking this page routinely. Any changes will be effective immediately, after they are posted on the link in the Store.
 
 ## Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me, at the address indicated in the app or the Google Play store.
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me, at [christian.mindful@outlook.com](mailto:christian.mindful@outlook.com).
 
 This Privacy Policy page was created at:
 [https://privacypolicytemplate.net](https://privacypolicytemplate.net).
